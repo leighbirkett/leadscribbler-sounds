@@ -1,0 +1,14 @@
+University of Iowa Electronic Music Studios: Musical Instrument Samples
+https://theremin.music.uiowa.edu/MIS.html
+
+The strings (violin, viola, cello and double bass, bowed and plucked), woodwinds (flute, oboe, clarinet, bassoon), brass
+(French horn, trumpet, trombone, tuba), vibraphone and marimba in this collection come from these recordings, most of
+them made in the university's anechoic chamber. The university's own terms, from the page above:
+
+  "These recordings ... may be downloaded and used for any projects, without restrictions."
+
+They have been freely available from the university since 1997. With thanks to the Electronic Music Studios and the
+players who recorded them.
+
+LeadScribbler cuts the recordings' chromatic runs into single notes (iowa_split.py), takes out the chamber's low
+rumble, brings each note into tune, gives held notes a seamless loop, and saves them small (build_sounds.py).
